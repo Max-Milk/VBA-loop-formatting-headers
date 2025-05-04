@@ -1,9 +1,6 @@
 # VBA-loop-formatting-headers
-Here’s a professional and well-structured `README.md` you can copy and paste to your GitHub repository. I've refined your original message for clarity, formatting, and professionalism, while keeping the message in your voice.
 
----
 
-````markdown
 # Excel VBA Automation: Header Formatting Loop
 
 This repository contains a simple Excel VBA automation tool that applies consistent header formatting across all sheets in a workbook. The project demonstrates how to use a VBA loop to automate repetitive formatting tasks.
