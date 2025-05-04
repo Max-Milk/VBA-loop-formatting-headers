@@ -57,11 +57,5 @@ End Sub
 
 ---
 
-Feel free to fork or contribute if you find this useful!
 
-```
 
----
-
-Would you like help creating the `AddHeaders` and `FormatHeaders` subroutines too?
-```
